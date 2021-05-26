@@ -1,0 +1,2 @@
+rootProject.name = "android2android"
+include ':app'
